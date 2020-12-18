@@ -1,6 +1,6 @@
 # genderPrediction
 Gender prediction of patients from MR images from normal, healthy, subjects. 
-This script was written as part of my PhD studies in the D-Lab in Maastricht University, The Netherlands. 
+This script was written while working with Maastricht University and Maastricht University Hospital.
 
 Using a convolutional neural network, it was investigated whether it was possible to determine the gender of a patient from T2 weighted, MR images. 
 
